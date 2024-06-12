@@ -43,7 +43,7 @@ class PredictWinning():
 
     def run(self):
 
-        if len(self.data) < 7:
+        if len(self.data) < 10:
             return 0.00, 1.00 
 
         self.load_data()
