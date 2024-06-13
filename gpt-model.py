@@ -44,6 +44,7 @@ class Agent:
                 break
 
             action = self.prediction()
+            
             print(f"Step: {self.step}, Prediction: {action:.2f}")
             reward, coins, status = self.game.step(action)
             print(f"Reward: {reward:.2f}, Coins: {coins:.2f}\n")
