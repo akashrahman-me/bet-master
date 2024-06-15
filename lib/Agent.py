@@ -33,8 +33,8 @@ class Agent:
 
         predict = PredictWinning(trainable_data)
         mse, winning_number = predict.run()
-        if winning_number >= 20:
-            return 4
+        if mse <= 2.25 and winning_number >= 2:
+            return winning_number
         return 1
 
     def run(self):

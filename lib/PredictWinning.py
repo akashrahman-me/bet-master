@@ -6,7 +6,7 @@ import json
 class PredictWinning():
     def __init__(self, data):
         self.data = data
-        self.model = RandomForestRegressor(n_estimators=3, random_state=42)
+        self.model = RandomForestRegressor(n_estimators=3500, random_state=1)
         self.df = None
         self.X = None
         self.y = None
@@ -44,6 +44,7 @@ class PredictWinning():
     def run(self):
 
         if len(self.data) < 10:
+            print("it's return 0.00, 1.00 due to insufficient data")
             return 0.00, 1.00 
 
         self.load_data()
