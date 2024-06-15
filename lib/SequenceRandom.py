@@ -6,7 +6,7 @@ class SequenceRandom:
     def __init__(self, seed=0):
         self.state = seed
 
-        with open ('data-collect.json', 'r') as f:
+        with open ('.recharge/data-collect.json', 'r') as f:
             data = json.load(f)
         self.numbers = data
         

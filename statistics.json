@@ -1,106 +1,3026 @@
 [
     {
         "prediction_winning_number": 1,
-        "winning_number": 1.66,
+        "winning_number": 3.63,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 38021.53
+        "total_coins": 223120.78,
+        "total_winned_coins": 341208.02
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 34.31,
+        "winning_number": 1.2,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 715689.16
+        "total_coins": 189031.73,
+        "total_winned_coins": 4623.23
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 3.09,
+        "winning_number": 1.17,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1116.0,
-        "total_winned_coins": 386615.64
+        "total_coins": 979.0,
+        "total_winned_coins": 160947.8
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 3.02,
+        "winning_number": 3.22,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 171261.13
+        "total_coins": 912.0,
+        "total_winned_coins": 220616.91
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 1.53,
+        "winning_number": 1.27,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1138.0,
-        "total_winned_coins": 29987.63
+        "total_coins": 190237.56,
+        "total_winned_coins": 14068.31
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 1.75,
+        "winning_number": 1.48,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 53171.02
+        "total_coins": 231356.73,
+        "total_winned_coins": 85215.65
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 6.79,
+        "winning_number": 1.34,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 3270260.3,
-        "total_winned_coins": 660346.42
+        "total_coins": 179800.42,
+        "total_winned_coins": 17989.56
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 1.3,
+        "winning_number": 1.49,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 11676.85
+        "total_coins": 166170.78,
+        "total_winned_coins": 40928.3
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 12.17,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 206922.68,
+        "total_winned_coins": 601703.35
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 857.0,
+        "total_winned_coins": 142751.41
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.62,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 142751.41,
+        "total_winned_coins": 108215.63
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.84,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 791.0,
+        "total_winned_coins": 135034.35
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.01,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 147829.72,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 125543.64,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.14,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 142797.53,
+        "total_winned_coins": 162359.99
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.73,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 152995.53,
+        "total_winned_coins": 420270.12
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 8.62,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 128304.41,
+        "total_winned_coins": 320295.52
     },
     {
         "prediction_winning_number": 1,
         "winning_number": 2.01,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 136213.64
+        "total_coins": 192845.12,
+        "total_winned_coins": 141809.22
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 2.34,
+        "winning_number": 6.21,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1366.0,
-        "total_winned_coins": 269366.38
+        "total_coins": 176331.27,
+        "total_winned_coins": 372182.52
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.72,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 118721.11,
+        "total_winned_coins": 88228.56
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.14,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 218954.32,
+        "total_winned_coins": 155905.87
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.0,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 186646.66,
+        "total_winned_coins": 84004.12
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.09,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 132781.28,
+        "total_winned_coins": 155483.74
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.16,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 150523.15,
+        "total_winned_coins": 5598.87
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.46,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 136740.98,
+        "total_winned_coins": 3392.2
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.13,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 179385.24,
+        "total_winned_coins": 2541.93
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.73,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 223469.91,
+        "total_winned_coins": 31690.37
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.04,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 170433.04,
+        "total_winned_coins": 389823.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.37,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 162902.22,
+        "total_winned_coins": 7652.52
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.47,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 130331.24,
+        "total_winned_coins": 19342.92
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.53,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 138729.43,
+        "total_winned_coins": 19005.74
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.21,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 151947.22,
+        "total_winned_coins": 3807.75
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.36,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 130214.89,
+        "total_winned_coins": 9973.72
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.19,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 130006.09,
+        "total_winned_coins": 8009.26
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.31,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 129785.85,
+        "total_winned_coins": 12353.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.47,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 112267.12,
+        "total_winned_coins": 214129.43
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.54,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 125643.89,
+        "total_winned_coins": 19810.37
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.51,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 107265.49,
+        "total_winned_coins": 23569.41
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 102418.05,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.04,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 106969.65,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.46,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 575.0,
+        "total_winned_coins": 7272.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.2,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 567.0,
+        "total_winned_coins": 335849.42
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.18,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 125873.99,
+        "total_winned_coins": 210993.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 12.98,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 637.0,
+        "total_winned_coins": 213971.1
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.1,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 663.0,
+        "total_winned_coins": 1366.66
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.62,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 8515.0,
+        "total_winned_coins": 12935.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.13,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 107973.36,
+        "total_winned_coins": 3197.36
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.86,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 593.0,
+        "total_winned_coins": 254939.78
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.82,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 141207.56,
+        "total_winned_coins": 258497.4
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.23,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 125699.23,
+        "total_winned_coins": 9216.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.53,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 106640.31,
+        "total_winned_coins": 166061.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.4,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 120358.35,
+        "total_winned_coins": 12538.99
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.95,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 110465.87,
+        "total_winned_coins": 289125.31
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 14.37,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 164432.86,
+        "total_winned_coins": 381739.89
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.65,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 114499.73,
+        "total_winned_coins": 181592.98
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.66,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 692.0,
+        "total_winned_coins": 224359.42
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.07,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 750.0,
+        "total_winned_coins": 92944.13
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.45,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 580.0,
+        "total_winned_coins": 14781.2
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.32,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 100519.92,
+        "total_winned_coins": 10801.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.22,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 162390.82,
+        "total_winned_coins": 213723.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.36,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 152890.75,
+        "total_winned_coins": 435476.62
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.03,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 143215.64,
+        "total_winned_coins": 40093.63
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.59,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 110501.78,
+        "total_winned_coins": 252226.33
     },
     {
         "prediction_winning_number": 1,
         "winning_number": 1.94,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1430.0,
-        "total_winned_coins": 70910.81
+        "total_coins": 177213.73,
+        "total_winned_coins": 120754.7
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 24.14,
+        "winning_number": 2.97,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1.0,
-        "total_winned_coins": 942925.04
+        "total_coins": 145009.09,
+        "total_winned_coins": 191537.91
     },
     {
         "prediction_winning_number": 1,
-        "winning_number": 23.6,
+        "winning_number": 1.08,
         "reward": 0,
         "coins": 1000,
-        "total_coins": 1378.0,
-        "total_winned_coins": 887955.72
+        "total_coins": 151963.99,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.9,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 132334.91,
+        "total_winned_coins": 150219.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.57,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 154861.53,
+        "total_winned_coins": 27598.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.37,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 160039.95,
+        "total_winned_coins": 135456.8
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.66,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 175185.61,
+        "total_winned_coins": 36538.6
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.35,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 168236.87,
+        "total_winned_coins": 10191.81
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.33,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 148306.89,
+        "total_winned_coins": 201959.51
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.18,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 913.0,
+        "total_winned_coins": 77122.84
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.16,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 159019.44,
+        "total_winned_coins": 101613.82
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.41,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 158352.01,
+        "total_winned_coins": 17770.17
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.72,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 138560.86,
+        "total_winned_coins": 29023.04
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.3,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 158733.89,
+        "total_winned_coins": 14444.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.56,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 149435.22,
+        "total_winned_coins": 23445.47
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.08,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 722.0,
+        "total_winned_coins": 174072.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.22,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 152000.53,
+        "total_winned_coins": 3692.59
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.3,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 169257.11,
+        "total_winned_coins": 11680.77
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.47,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 556.0,
+        "total_winned_coins": 18814.31
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.32,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 193856.47,
+        "total_winned_coins": 358727.7
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 21.66,
+        "reward": 0,
+        "coins": 1000,
+        "total_coins": 150561.77,
+        "total_winned_coins": 401747.15
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 2.24,
+        "reward": -100,
+        "coins": 900,
+        "total_coins": 105335.94,
+        "total_winned_coins": 55657.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.34,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 124046.43,
+        "total_winned_coins": 9008.96
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.96,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 146975.74,
+        "total_winned_coins": 115413.81
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 710.0,
+        "total_winned_coins": 9285.74
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.99,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 618.0,
+        "total_winned_coins": 28809.31
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.59,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 121107.69,
+        "total_winned_coins": 272524.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 841.0,
+        "total_winned_coins": 97400.76
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.05,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 161875.52,
+        "total_winned_coins": 102878.76
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 134072.54,
+        "total_winned_coins": 6822.35
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.18,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 139093.31,
+        "total_winned_coins": 17385.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.3,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 152326.97,
+        "total_winned_coins": 131678.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.53,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 170052.79,
+        "total_winned_coins": 291217.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.07,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 105240.71,
+        "total_winned_coins": 4056.48
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.12,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 152442.55,
+        "total_winned_coins": 127028.32
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.49,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 102389.62,
+        "total_winned_coins": 33572.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.13,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 105096.08,
+        "total_winned_coins": 73978.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.78,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 117333.41,
+        "total_winned_coins": 55120.23
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.58,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 154030.06,
+        "total_winned_coins": 149134.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.72,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 103866.93,
+        "total_winned_coins": 37335.95
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 20.87,
+        "reward": 0,
+        "coins": 900,
+        "total_coins": 124869.92,
+        "total_winned_coins": 331934.56
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 2.89,
+        "reward": -100,
+        "coins": 800,
+        "total_coins": 706.0,
+        "total_winned_coins": 107738.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.29,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 642.0,
+        "total_winned_coins": 10153.49
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.28,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 135123.29,
+        "total_winned_coins": 15086.93
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.24,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 175989.55,
+        "total_winned_coins": 227785.74
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.28,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 758.0,
+        "total_winned_coins": 336340.91
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.88,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 776.0,
+        "total_winned_coins": 63688.43
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 18.83,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 142016.84,
+        "total_winned_coins": 551476.33
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.02,
+        "reward": -100,
+        "coins": 700,
+        "total_coins": 299265.63,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.6,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 179080.59,
+        "total_winned_coins": 250094.44
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.57,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 192401.22,
+        "total_winned_coins": 306040.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 21.26,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 803.0,
+        "total_winned_coins": 490994.89
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.68,
+        "reward": -100,
+        "coins": 600,
+        "total_coins": 116450.04,
+        "total_winned_coins": 17962.45
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.28,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 111005.75,
+        "total_winned_coins": 71176.54
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.26,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 123403.35,
+        "total_winned_coins": 8632.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.86,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 122510.28,
+        "total_winned_coins": 314087.11
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.24,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 134909.55,
+        "total_winned_coins": 4557.42
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.52,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 132519.25,
+        "total_winned_coins": 234458.71
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.37,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 112551.92,
+        "total_winned_coins": 253169.95
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 125644.64,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 146625.62,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.13,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 200179.45,
+        "total_winned_coins": 130016.66
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.79,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 211618.28,
+        "total_winned_coins": 527448.89
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.88,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 204167.54,
+        "total_winned_coins": 138375.4
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.23,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 166437.32,
+        "total_winned_coins": 16109.72
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.69,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 877.0,
+        "total_winned_coins": 100804.18
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.36,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 187847.78,
+        "total_winned_coins": 249731.63
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.21,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 204309.53,
+        "total_winned_coins": 5447.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.58,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 153823.26,
+        "total_winned_coins": 36641.13
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.6,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 185296.63,
+        "total_winned_coins": 54243.12
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 184750.26,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.46,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 172476.25,
+        "total_winned_coins": 19795.7
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.29,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 193888.28,
+        "total_winned_coins": 34540.06
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.67,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 197597.64,
+        "total_winned_coins": 38094.58
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.32,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 201160.85,
+        "total_winned_coins": 321544.69
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.69,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 202879.86,
+        "total_winned_coins": 245997.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 175803.08,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.2,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 181560.88,
+        "total_winned_coins": 3847.8
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.93,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 166710.34,
+        "total_winned_coins": 281966.7
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.36,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 211026.96,
+        "total_winned_coins": 64011.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.46,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 663.0,
+        "total_winned_coins": 27934.87
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.79,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 123762.59,
+        "total_winned_coins": 226212.26
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.6,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 220510.51,
+        "total_winned_coins": 563868.95
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.81,
+        "reward": -100,
+        "coins": 500,
+        "total_coins": 145960.77,
+        "total_winned_coins": 57236.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.09,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 118662.58,
+        "total_winned_coins": 891.41
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.01,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 158187.09,
+        "total_winned_coins": 203925.93
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.33,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 763.0,
+        "total_winned_coins": 29977.42
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.7,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 131102.52,
+        "total_winned_coins": 369703.0
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 4.33,
+        "reward": 300,
+        "coins": 800,
+        "total_coins": 101520.14,
+        "total_winned_coins": 159218.22
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.09,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 172896.95,
+        "total_winned_coins": 216499.04
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.05,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 173073.34,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.29,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 118769.98,
+        "total_winned_coins": 66282.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.08,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 156847.05,
+        "total_winned_coins": 4032.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.53,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 180050.38,
+        "total_winned_coins": 94820.63
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.26,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 166757.15,
+        "total_winned_coins": 637185.62
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.18,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 164327.91,
+        "total_winned_coins": 9163.11
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 680.0,
+        "total_winned_coins": 122437.39
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.23,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 178716.88,
+        "total_winned_coins": 352963.72
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.6,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 161002.33,
+        "total_winned_coins": 360365.51
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 119578.43,
+        "total_winned_coins": 9603.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.01,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 687.0,
+        "total_winned_coins": 101698.76
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.96,
+        "reward": 0,
+        "coins": 800,
+        "total_coins": 147069.89,
+        "total_winned_coins": 472744.14
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 2.42,
+        "reward": -100,
+        "coins": 700,
+        "total_coins": 121313.38,
+        "total_winned_coins": 86691.18
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.93,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 176823.52,
+        "total_winned_coins": 120329.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.69,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 729.0,
+        "total_winned_coins": 293597.13
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.51,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 875.0,
+        "total_winned_coins": 30116.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 13.47,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 113297.65,
+        "total_winned_coins": 292250.27
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.95,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 136307.87,
+        "total_winned_coins": 65789.33
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 11.06,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 864.0,
+        "total_winned_coins": 444476.47
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.86,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 129773.08,
+        "total_winned_coins": 305951.51
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.44,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 128868.27,
+        "total_winned_coins": 34205.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.32,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 141250.48,
+        "total_winned_coins": 10045.21
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 13.97,
+        "reward": 0,
+        "coins": 700,
+        "total_coins": 143963.68,
+        "total_winned_coins": 458144.75
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.07,
+        "reward": -100,
+        "coins": 600,
+        "total_coins": 215005.43,
+        "total_winned_coins": 4545.47
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.29,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 226111.37,
+        "total_winned_coins": 391142.52
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 14.24,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 174030.17,
+        "total_winned_coins": 564109.89
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.68,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 186223.82,
+        "total_winned_coins": 121044.36
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.82,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 201180.56,
+        "total_winned_coins": 108855.41
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 202809.25,
+        "total_winned_coins": 26551.69
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 8.65,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 277299.98,
+        "total_winned_coins": 736855.01
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.56,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 211831.46,
+        "total_winned_coins": 34280.57
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.91,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 270444.65,
+        "total_winned_coins": 114976.82
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 27.27,
+        "reward": 0,
+        "coins": 600,
+        "total_coins": 269298.64,
+        "total_winned_coins": 775542.21
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.97,
+        "reward": -100,
+        "coins": 500,
+        "total_coins": 172222.21,
+        "total_winned_coins": 58982.75
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.23,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 213603.03,
+        "total_winned_coins": 145451.51
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 25.76,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 248469.32,
+        "total_winned_coins": 942698.0
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.59,
+        "reward": -100,
+        "coins": 400,
+        "total_coins": 234321.35,
+        "total_winned_coins": 40888.69
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.16,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 229630.05,
+        "total_winned_coins": 390428.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.98,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1194.0,
+        "total_winned_coins": 727357.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.49,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 191107.05,
+        "total_winned_coins": 30080.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1026.0,
+        "total_winned_coins": 204232.73
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.97,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 285057.49,
+        "total_winned_coins": 104032.57
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 13.45,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 326332.09,
+        "total_winned_coins": 805072.85
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.58,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 305447.53,
+        "total_winned_coins": 247389.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.27,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1100.0,
+        "total_winned_coins": 21879.57
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.48,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 303988.26,
+        "total_winned_coins": 23801.67
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 12.65,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1174.0,
+        "total_winned_coins": 1263190.01
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.16,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 328645.99,
+        "total_winned_coins": 141024.65
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.18,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 290124.36,
+        "total_winned_coins": 155130.85
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.63,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 272932.77,
+        "total_winned_coins": 557968.33
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.52,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 258997.49,
+        "total_winned_coins": 37914.85
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.41,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 264911.85,
+        "total_winned_coins": 28441.54
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.99,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1167.0,
+        "total_winned_coins": 242589.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.95,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 378644.18,
+        "total_winned_coins": 423428.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.7,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 340981.99,
+        "total_winned_coins": 99614.57
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 272996.28,
+        "total_winned_coins": 7002.99
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 241818.09,
+        "total_winned_coins": 4483.78
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.18,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 245054.59,
+        "total_winned_coins": 7802.3
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.79,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 255602.93,
+        "total_winned_coins": 652224.01
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 21.59,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 286541.92,
+        "total_winned_coins": 808313.79
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.52,
+        "reward": -100,
+        "coins": 300,
+        "total_coins": 1192.0,
+        "total_winned_coins": 32618.06
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.67,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 158339.16,
+        "total_winned_coins": 60510.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.92,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 198339.06,
+        "total_winned_coins": 642313.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.12,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 182378.81,
+        "total_winned_coins": 8816.99
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.12,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 166619.43,
+        "total_winned_coins": 7078.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.39,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 192114.57,
+        "total_winned_coins": 15863.51
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.26,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 249886.69,
+        "total_winned_coins": 17512.01
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.87,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 281779.03,
+        "total_winned_coins": 738908.33
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 268684.24,
+        "total_winned_coins": 64676.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.79,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 249270.78,
+        "total_winned_coins": 103817.74
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.29,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 247863.69,
+        "total_winned_coins": 13536.82
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.2,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 252796.63,
+        "total_winned_coins": 10570.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.28,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 238838.33,
+        "total_winned_coins": 643841.77
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 270525.29,
+        "total_winned_coins": 8819.48
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.09,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 240723.48,
+        "total_winned_coins": 1363.26
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.14,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 197050.71,
+        "total_winned_coins": 5869.2
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.71,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 182860.35,
+        "total_winned_coins": 33217.34
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.03,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 284466.93,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.34,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 262934.21,
+        "total_winned_coins": 13254.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.45,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 223169.24,
+        "total_winned_coins": 152444.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.03,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 220911.14,
+        "total_winned_coins": 117920.13
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.51,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 225511.63,
+        "total_winned_coins": 75662.94
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.82,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 174151.12,
+        "total_winned_coins": 162286.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.31,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 156635.93,
+        "total_winned_coins": 22945.3
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.45,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 132399.96,
+        "total_winned_coins": 281958.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.32,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 151030.55,
+        "total_winned_coins": 15023.61
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.01,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 860.0,
+        "total_winned_coins": 147700.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.73,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 171032.63,
+        "total_winned_coins": 46484.66
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.38,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 160034.56,
+        "total_winned_coins": 297081.48
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 23.98,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 148550.64,
+        "total_winned_coins": 526653.61
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 25.42,
+        "reward": 300,
+        "coins": 600,
+        "total_coins": 875.0,
+        "total_winned_coins": 686115.44
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.02,
+        "reward": -100,
+        "coins": 500,
+        "total_coins": 902.0,
+        "total_winned_coins": 137408.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.93,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 159276.56,
+        "total_winned_coins": 118669.42
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.04,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 171759.37,
+        "total_winned_coins": 8807.58
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.21,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 219301.02,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 29.45,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 195383.27,
+        "total_winned_coins": 6710274.4
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 2.22,
+        "reward": -100,
+        "coins": 400,
+        "total_coins": 167859.43,
+        "total_winned_coins": 73939.41
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.38,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 925.0,
+        "total_winned_coins": 14524.21
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.46,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 261955.76,
+        "total_winned_coins": 621518.98
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.74,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 278197.76,
+        "total_winned_coins": 39259.17
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.3,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 273152.91,
+        "total_winned_coins": 20694.84
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.38,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 265575.68,
+        "total_winned_coins": 14857.03
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.19,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 241185.27,
+        "total_winned_coins": 263246.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.94,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 324860.65,
+        "total_winned_coins": 48658.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.23,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 265671.88,
+        "total_winned_coins": 4047.72
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.85,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 857.0,
+        "total_winned_coins": 371759.89
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.24,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 230921.34,
+        "total_winned_coins": 8842.86
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.01,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 3271150.82,
+        "total_winned_coins": 173012.54
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.18,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 248359.33,
+        "total_winned_coins": 101165.45
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.03,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 976.0,
+        "total_winned_coins": 78906.83
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.37,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 230011.88,
+        "total_winned_coins": 111701.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.35,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 241471.23,
+        "total_winned_coins": 187767.45
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.93,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 275976.37,
+        "total_winned_coins": 348674.08
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.84,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 277259.36,
+        "total_winned_coins": 253772.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 208655.42,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.49,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 216346.17,
+        "total_winned_coins": 365289.98
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.68,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 263281.37,
+        "total_winned_coins": 28185.53
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 20.87,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1007.0,
+        "total_winned_coins": 1902385.72
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.6,
+        "reward": -100,
+        "coins": 300,
+        "total_coins": 227509.62,
+        "total_winned_coins": 48324.68
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.02,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 235901.95,
+        "total_winned_coins": 460933.29
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.68,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 191230.57,
+        "total_winned_coins": 44475.94
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.92,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 269426.74,
+        "total_winned_coins": 525941.12
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.98,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 230753.35,
+        "total_winned_coins": 66641.11
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.01,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 226337.96,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.28,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 219798.11,
+        "total_winned_coins": 16728.47
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.92,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 193595.88,
+        "total_winned_coins": 91483.18
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.02,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 284658.36,
+        "total_winned_coins": 599504.84
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.39,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 199320.85,
+        "total_winned_coins": 22552.6
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.08,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 1041.0,
+        "total_winned_coins": 553261.53
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.61,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 181983.32,
+        "total_winned_coins": 431878.1
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 9.96,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 164294.92,
+        "total_winned_coins": 584724.99
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.16,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 1044.0,
+        "total_winned_coins": 3674.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 32.91,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 868.0,
+        "total_winned_coins": 597420.88
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 20.13,
+        "reward": 300,
+        "coins": 600,
+        "total_coins": 1051.0,
+        "total_winned_coins": 849060.07
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 2.07,
+        "reward": -100,
+        "coins": 500,
+        "total_coins": 207232.82,
+        "total_winned_coins": 45870.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.77,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 873.0,
+        "total_winned_coins": 156340.32
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.87,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 832.0,
+        "total_winned_coins": 73993.96
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.18,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 1041.0,
+        "total_winned_coins": 13659.86
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.42,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 243132.66,
+        "total_winned_coins": 273468.37
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 294070.25,
+        "total_winned_coins": 9378.52
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.54,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 1159.0,
+        "total_winned_coins": 52456.77
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.1,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 1152.0,
+        "total_winned_coins": 11692.12
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 6.64,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 294883.32,
+        "total_winned_coins": 676839.86
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 33.71,
+        "reward": 0,
+        "coins": 500,
+        "total_coins": 260593.01,
+        "total_winned_coins": 941275.83
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.46,
+        "reward": -100,
+        "coins": 400,
+        "total_coins": 1196.0,
+        "total_winned_coins": 45762.02
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.72,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 983.0,
+        "total_winned_coins": 309411.4
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.71,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 264638.83,
+        "total_winned_coins": 93414.58
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.99,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 285054.88,
+        "total_winned_coins": 102696.21
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.08,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1300.0,
+        "total_winned_coins": 598003.48
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 11.92,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 3277466.88,
+        "total_winned_coins": 1006198.2
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.22,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 228101.89,
+        "total_winned_coins": 12441.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.16,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1099.0,
+        "total_winned_coins": 110306.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.02,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 249356.23,
+        "total_winned_coins": 394244.14
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 272622.89,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.12,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 260441.72,
+        "total_winned_coins": 9982.97
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.01,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1194.0,
+        "total_winned_coins": 300547.65
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.66,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1502.0,
+        "total_winned_coins": 863824.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.32,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1408.0,
+        "total_winned_coins": 258867.88
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.34,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 252407.58,
+        "total_winned_coins": 158737.77
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1283.0,
+        "total_winned_coins": 279828.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.16,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1167.0,
+        "total_winned_coins": 3173.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.22,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 251113.94,
+        "total_winned_coins": 310402.92
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 14.88,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1543.0,
+        "total_winned_coins": 1073933.03
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.33,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1441.0,
+        "total_winned_coins": 24376.16
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 254144.66,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.6,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 332356.41,
+        "total_winned_coins": 137144.1
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.79,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1411.0,
+        "total_winned_coins": 60848.8
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1450.0,
+        "total_winned_coins": 372726.13
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.98,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1446.0,
+        "total_winned_coins": 541321.43
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.03,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 398675.21,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 24.79,
+        "reward": 0,
+        "coins": 400,
+        "total_coins": 1299.0,
+        "total_winned_coins": 1290147.06
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 3.39,
+        "reward": -100,
+        "coins": 300,
+        "total_coins": 1344.0,
+        "total_winned_coins": 415066.94
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.19,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 1183.0,
+        "total_winned_coins": 5730.02
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.06,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 234574.89,
+        "total_winned_coins": 564899.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.77,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 239758.19,
+        "total_winned_coins": 46454.22
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.22,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 1186.0,
+        "total_winned_coins": 12959.5
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 23.75,
+        "reward": 0,
+        "coins": 300,
+        "total_coins": 1150.0,
+        "total_winned_coins": 967805.85
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.23,
+        "reward": -100,
+        "coins": 200,
+        "total_coins": 278481.96,
+        "total_winned_coins": 20911.04
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 8.72,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 310031.53,
+        "total_winned_coins": 964560.78
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.88,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 223056.61,
+        "total_winned_coins": 335125.31
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.66,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 1165.0,
+        "total_winned_coins": 39720.96
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.56,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 1105.0,
+        "total_winned_coins": 61522.46
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.96,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 285776.51,
+        "total_winned_coins": 103222.68
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 1459.0,
+        "total_winned_coins": 337225.69
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.6,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 1387.0,
+        "total_winned_coins": 627125.75
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 23.64,
+        "reward": 0,
+        "coins": 200,
+        "total_coins": 1415.0,
+        "total_winned_coins": 1284127.92
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 3.7,
+        "reward": -100,
+        "coins": 100,
+        "total_coins": 1405.0,
+        "total_winned_coins": 396078.09
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 4.05,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1236.0,
+        "total_winned_coins": 432799.64
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 3.07,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1257.0,
+        "total_winned_coins": 284801.81
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.75,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 261086.87,
+        "total_winned_coins": 591208.01
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.23,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 229272.06,
+        "total_winned_coins": 10564.32
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.54,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 210981.57,
+        "total_winned_coins": 40578.38
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.25,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 221185.24,
+        "total_winned_coins": 17450.5
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.81,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 226533.11,
+        "total_winned_coins": 51897.25
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.18,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1437.0,
+        "total_winned_coins": 190387.05
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.31,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1571.0,
+        "total_winned_coins": 16469.96
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.09,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1414.0,
+        "total_winned_coins": 330185.15
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 13.97,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1311.0,
+        "total_winned_coins": 1054278.46
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 5.46,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1512.0,
+        "total_winned_coins": 642091.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.06,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 219693.21,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.89,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1091.0,
+        "total_winned_coins": 47312.95
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.99,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1327.0,
+        "total_winned_coins": 291506.21
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 7.18,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1481.0,
+        "total_winned_coins": 698503.18
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.11,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1437.0,
+        "total_winned_coins": 10661.21
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.04,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 193957.56,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.02,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1189.0,
+        "total_winned_coins": 217261.28
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.48,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 231602.48,
+        "total_winned_coins": 26040.11
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.87,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1371.0,
+        "total_winned_coins": 107945.82
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.17,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1483.0,
+        "total_winned_coins": 302445.93
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.64,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1547.0,
+        "total_winned_coins": 36599.77
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.21,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 368050.36,
+        "total_winned_coins": 2168.58
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.0,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 327323.34,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 11.83,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1333.0,
+        "total_winned_coins": 1090363.58
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.32,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 336837.27,
+        "total_winned_coins": 346385.46
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.35,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1255.0,
+        "total_winned_coins": 173947.66
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.06,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 328616.63,
+        "total_winned_coins": 253656.79
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.17,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 263019.99,
+        "total_winned_coins": 11564.39
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.01,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 239473.34,
+        "total_winned_coins": 0.0
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.49,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 1168.0,
+        "total_winned_coins": 7251.43
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.35,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 254236.11,
+        "total_winned_coins": 147473.07
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.41,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 235373.57,
+        "total_winned_coins": 19598.75
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 1.99,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 211401.33,
+        "total_winned_coins": 93824.84
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 2.19,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 263495.78,
+        "total_winned_coins": 162666.35
+    },
+    {
+        "prediction_winning_number": 1,
+        "winning_number": 18.14,
+        "reward": 0,
+        "coins": 100,
+        "total_coins": 264248.43,
+        "total_winned_coins": 927443.39
+    },
+    {
+        "prediction_winning_number": 4,
+        "winning_number": 1.08,
+        "reward": -100,
+        "coins": 0,
+        "total_coins": 198522.85,
+        "total_winned_coins": 0.0
     }
 ]

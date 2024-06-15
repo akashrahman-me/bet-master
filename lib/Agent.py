@@ -18,7 +18,7 @@ class Agent:
             'total_winned_coins': item['total_winned_coins']
         } for item in pred_data]
 
-        if len(preper_train) <= 10:
+        if len(preper_train) <= 2:
             return 1
 
         with open ('storage/500_match.json', 'r') as f:
@@ -29,20 +29,17 @@ class Agent:
                 'total_winned_coins': item['total_winned_coins']
             } for item in match_500]
 
-        # trainable_data = match_500 + preper_train
+        trainable_data = match_500 + preper_train
 
-        predict = PredictWinning(preper_train)
+        predict = PredictWinning(trainable_data)
         mse, winning_number = predict.run()
-        if mse < 2.25 and winning_number >= 2:
-            return winning_number
+        if winning_number >= 20:
+            return 4
         return 1
 
     def run(self):
 
         while True:
-            if self.step >= 600:
-                break
-
             action = self.prediction()
             
             print(f"Step: {self.step}, Prediction: {action:.2f}")

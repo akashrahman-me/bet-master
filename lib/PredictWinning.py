@@ -6,7 +6,7 @@ import json
 class PredictWinning():
     def __init__(self, data):
         self.data = data
-        self.model = RandomForestRegressor(n_estimators=500, random_state=42)
+        self.model = RandomForestRegressor(n_estimators=3, random_state=42)
         self.df = None
         self.X = None
         self.y = None
