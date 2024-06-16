@@ -2,12 +2,17 @@ from lib.NumberPredictionGame import NumberPredictionGame
 from lib.PredictWinning import PredictWinning
 import re
 import json
+import time
+from lib.CaptureWinnings import CaptureWinnings
+import threading
+from utils.touch_screen import touch_screen
 
 class Agent:
     def __init__(self):
         self.step = 0
         self.game = NumberPredictionGame()
         self.statistics = []
+        self.capture_winnings = CaptureWinnings()
 
     def prediction(self):    
         pred_data = self.statistics if len(self.statistics) > 500 else self.statistics[-500:]
@@ -29,22 +34,50 @@ class Agent:
                 'total_winned_coins': item['total_winned_coins']
             } for item in match_500]
 
-        trainable_data = match_500 + preper_train
+        # trainable_data = match_500 + preper_train
 
-        predict = PredictWinning(trainable_data)
+        predict = PredictWinning(preper_train)
         mse, winning_number = predict.run()
-        if mse <= 2.25 and winning_number >= 2:
-            return winning_number
+        return winning_number
+        # if mse <= 10 and winning_number >= 2:
+        #     return winning_number
         return 1
 
     def run(self):
 
         while True:
+
+            if self.step >= 1000:
+                break
+
             action = self.prediction()
             
             print(f"Step: {self.step}, Prediction: {action:.2f}")
+
+            # Place bet.
+            # if action > 1:
+            #     def bet_placing_macanisum():
+            #         try:
+            #             time.sleep(3)
+            #             # Here <click the place button>
+            #             # touch_screen(290, 1350) # Place a Bet
+
+            #             self.capture_winnings.run(target=action)
+
+            #             # Here click the up button
+            #             # touch_screen(800, 1350) #Take Winning
+
+            #         except Exception as e:
+            #             print(e)
+
+            #     threading.Thread(target=bet_placing_macanisum).start()
+
+
             reward, coins, status = self.game.step(action)
             print(f"Reward: {reward:.2f}, Coins: {coins:.2f}\n")
+
+            if self.step % 600 == 0:
+                time.sleep(3)
 
             try:
                 self.statistics.append({

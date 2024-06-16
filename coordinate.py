@@ -3,6 +3,7 @@ import subprocess
 from PIL import Image, ImageDraw
 import io
 import matplotlib.pyplot as plt
+import threading
 
 # Function to take a screenshot using ADB
 def take_screenshot():
@@ -42,4 +43,10 @@ def display_image(image):
 def touch_screen(x, y):
     subprocess.run(['adb', 'shell', 'input', 'tap', str(x), str(y)])
 
-touch_screen(917, 1170)
+# touch_screen(290, 1350) # Place a Bet
+
+def x():
+    touch_screen(800, 1350)
+
+threading.Thread(target=x).start()
+ #Take Winning

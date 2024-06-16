@@ -5,6 +5,7 @@ import tempfile
 import os
 import re
 import pytesseract
+import random
 
 class CaptureWinnings:
     def __init__(self, width=170, height=56, x=1920 - 200, y=300):
@@ -25,7 +26,7 @@ class CaptureWinnings:
 
     def save_screenshot(self, screenshot):
         temp_dir = tempfile.gettempdir()
-        screenshot_path = os.path.join(temp_dir, "screenshot.png")
+        screenshot_path = os.path.join(temp_dir, f"screenshot_{random.randint(1, 1000)}.png")
         screenshot.save(screenshot_path)
         return screenshot_path
 
@@ -53,9 +54,10 @@ class CaptureWinnings:
 
         return text.strip()
 
-    def run(self):
+    def run(self, target = None):
         valid_text_count = 0
         last_valid_text = None
+
         while True:
             text = self.processing_text()
             if text and self.is_valid_format(text):
@@ -65,8 +67,14 @@ class CaptureWinnings:
                     valid_text_count = 1
                     last_valid_text = text
                 
+                winning_number = float(text.replace('x', ''))
+
+                if target is not None:
+                    if winning_number >= target:
+                        return winning_number
+
                 if valid_text_count == 5 and last_valid_text != '1.00x':
-                    return float(text.replace('x', ''))
+                    return winning_number
                 
             else:
                 if last_valid_text != None and last_valid_text == '1.00x':

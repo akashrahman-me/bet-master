@@ -1,6 +1,7 @@
 from lib.SequenceRandom import SequenceRandom
 from lib.CaptureWinnings import CaptureWinnings
 from lib.StatusExtractor import StatusExtractor
+import time
 
 class NumberPredictionGame:
     def __init__(self):
@@ -39,6 +40,7 @@ class NumberPredictionGame:
             "total_coins": status['bets'],
             "total_winned_coins": status['winnings']
         }
+
 
     def reset(self):
         self.coins = 500
