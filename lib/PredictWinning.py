@@ -14,26 +14,28 @@ class PredictWinning():
         self.data = [item['winning_number'] for item in self.data]
         self.matcher = PatternMatcher()
 
-
-    def predict_next_winning_number(self): 
+    def predict_next_winning_number(self):
         if sum(self.data[-6:]) <= 40:
             return 1
         
-        # 14+
-        if self.data[-1:][0] >= 14:
-            return 1
-
-        # 1, 1, 2, 1       
+        # Proofed
         if (self.matcher.run(self.data[-4:], [1, 1, 2, 1])):
-            return 3
-            
-        # 1, 1, 1, 2
+            return 20
+        
+        if (self.matcher.run(self.data[-4:], [2, 1, 5, 3])):
+            return 20
+        
+        # Proofed
+        if (self.matcher.run(self.data[-4:], [1.5, 1.5, 3, 7])):
+            return 20
+  
+        # Proof is begin in faild
         if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
-            return 3
-
-        # 2, 1, 2, 5, 1.5
+            return 20
+            
+        # Proof is begin faild
         if (self.matcher.run(self.data[-5:], [2.19, 1.05, 2.39, 4.71, 1.65])):
-            return 3
+            return 20
         
         return 1
 

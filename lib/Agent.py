@@ -34,9 +34,9 @@ class Agent:
                 'total_winned_coins': item['total_winned_coins']
             } for item in match_500]
 
-        # trainable_data = match_500 + preper_train
+        trainable_data = match_500 + preper_train
 
-        predict = PredictWinning(preper_train)
+        predict = PredictWinning(trainable_data)
         mse, winning_number = predict.run()
         return winning_number
         # if mse <= 10 and winning_number >= 2:
@@ -47,7 +47,7 @@ class Agent:
 
         while True:
 
-            if self.step >= 1000:
+            if self.step > 1600:
                 break
 
             action = self.prediction()
