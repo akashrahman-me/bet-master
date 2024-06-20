@@ -36,18 +36,17 @@ class Agent:
 
         trainable_data = match_500 + preper_train
 
-        predict = PredictWinning(trainable_data)
+        predict = PredictWinning(pred_data)
         mse, winning_number = predict.run()
-        return winning_number
-        # if mse <= 10 and winning_number >= 2:
-        #     return winning_number
+        if mse <= 5 and winning_number >= 2:
+            return winning_number
         return 1
 
     def run(self):
 
         while True:
 
-            if self.step > 1600:
+            if self.step > 9999:
                 break
 
             action = self.prediction()
