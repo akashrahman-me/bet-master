@@ -46,7 +46,7 @@ class Agent:
 
         while True:
 
-            if self.step > 9999:
+            if self.step > 458:
                 break
 
             action = self.prediction()

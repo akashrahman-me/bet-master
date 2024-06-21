@@ -21,15 +21,15 @@ class PredictWinning():
         if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
             return 5
         
-        # Proofed
-        # if (self.matcher.run(self.data[-4:], [1, 1, 2, 1])):
-        #     return 20
-        
         # # Proofed
+        # if (self.matcher.run(self.data[-4:], [1, 1, 2, 1])):
+        #     return 5
+        
+        # # # Proofed
         # if (self.matcher.run(self.data[-4:], [1.5, 1.5, 3, 7])):
         #     return 20
   
-        # # Proof
+        # # # Proof
         # if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
         #     return 20
 
