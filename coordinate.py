@@ -30,6 +30,7 @@ def display_image(image):
     plt.axis('off')  # Hide axes
     plt.show()
 
+display_image(take_screenshot())
 # if __name__ == '__main__':
 #     screenshot = take_screenshot()
 #     x = 917
@@ -45,8 +46,8 @@ def touch_screen(x, y):
 
 # touch_screen(290, 1350) # Place a Bet
 
-def x():
-    touch_screen(800, 1350)
+# def x():
+#     touch_screen(800, 1350)
 
-threading.Thread(target=x).start()
+# threading.Thread(target=x).start()
  #Take Winning
