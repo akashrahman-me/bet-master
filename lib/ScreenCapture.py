@@ -3,6 +3,7 @@ import pyautogui
 from PIL import Image
 import tempfile
 import os
+import random
 import pytesseract
 
 class ScreenCapture:
@@ -22,7 +23,7 @@ class ScreenCapture:
 
     def save_screenshot(self, screenshot):
         temp_dir = tempfile.gettempdir()
-        screenshot_path = os.path.join(temp_dir, "screenshot.png")
+        screenshot_path = os.path.join(temp_dir, f"screenshot_{round(random.uniform(2,4), 2)}.png")
         screenshot.save(screenshot_path)
         return screenshot_path
 

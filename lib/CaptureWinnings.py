@@ -26,7 +26,7 @@ class CaptureWinnings:
 
     def save_screenshot(self, screenshot):
         temp_dir = tempfile.gettempdir()
-        screenshot_path = os.path.join(temp_dir, f"screenshot_{random.randint(1, 1000)}.png")
+        screenshot_path = os.path.join(temp_dir, f"screenshot_{round(random.uniform(2,4), 2)}.png")
         screenshot.save(screenshot_path)
         return screenshot_path
 

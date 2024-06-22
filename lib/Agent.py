@@ -1,8 +1,6 @@
 from lib.NumberPredictionGame import NumberPredictionGame
 from lib.PredictWinning import PredictWinning
-import re
 import json
-import time
 from lib.CaptureWinnings import CaptureWinnings
 import threading
 from utils.touch_screen import touch_screen
@@ -39,12 +37,17 @@ class Agent:
 
         predict = PredictWinning(pred_data)
         mse, winning_number = predict.run()
+        return winning_number
         if mse <= 5 and winning_number >= 2:
             return winning_number
         return 1
 
     def run(self):
         while True:
+
+            if self.step > 1000:
+                break
+
             action = self.prediction()
             print(f"Step: {self.step}, Prediction: {action:.2f}")
 

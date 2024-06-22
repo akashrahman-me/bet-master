@@ -7,6 +7,7 @@ from lib.CustomRandomGenerator import CustomRandomGenerator
 from lib.PatternMatcher import PatternMatcher
 import json
 import numpy as np
+import random
 
 class PredictWinning():
     def __init__(self, data):
@@ -15,30 +16,19 @@ class PredictWinning():
         self.matcher = PatternMatcher()
 
     def predict_next_winning_number(self):
+
+        # insufficient data
+        if len(self.data) < 6:
+            return 1
+        
         if sum(self.data[-6:]) <= 40:
             return 1
         
         if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
             return 5
-        
-        # # Proofed
-        # if (self.matcher.run(self.data[-4:], [1, 1, 2, 1])):
-        #     return 5
-        
-        # # # Proofed
-        # if (self.matcher.run(self.data[-4:], [1.5, 1.5, 3, 7])):
-        #     return 20
-  
-        # # # Proof
-        # if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
-        #     return 20
 
         return 1
 
-    def run(self):
-        if len(self.data) < 10:
-            print("It's returning 0.00, 1.00 due to insufficient data")
-            return 0.00, 1.00
-        
+    def run(self):        
         next_winning_number = self.predict_next_winning_number()
         return 1, next_winning_number

@@ -12,17 +12,17 @@ class NumberPredictionGame:
         self.status_extractor = StatusExtractor()
 
     def step(self, prediction):
-        # x = self.sequence.next_number()
-        # winning_number = x['winning_number']
-        # total_players = x['total_players']
-        # total_coins = x['total_coins']
-        # total_winned_coins = x['total_winned_coins']
+    #     x = self.sequence.next_number()
+    #     winning_number = x['winning_number']
+    #     total_players = x['total_players']
+    #     total_coins = x['total_coins']
+    #     total_winned_coins = x['total_winned_coins']
 
-        # status = {
-        #     "players": total_players,
-        #     "bets": total_coins,
-        #     "winnings": total_winned_coins
-        # }
+    #     status = {
+    #         "players": total_players,
+    #         "bets": total_coins,
+    #         "winnings": total_winned_coins
+    #     }
         winning_number = self.capture_winnings.run()
         status = self.status_extractor.run()
         reward = 0
@@ -43,5 +43,5 @@ class NumberPredictionGame:
 
 
     def reset(self):
-        self.coins = 500
+        self.coins = 1000
         return self.coins
