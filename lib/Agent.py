@@ -44,9 +44,8 @@ class Agent:
 
     def run(self):
         while True:
-
-            if self.step > 1000:
-                break
+            # if self.step > 1000:
+            #     break
 
             action = self.prediction()
             print(f"Step: {self.step}, Prediction: {action:.2f}")
@@ -59,7 +58,7 @@ class Agent:
                         # Here <click the place button>
                         touch_screen(190, 888)
 
-                        self.capture_winnings.run(target=action - 0.4)
+                        self.capture_winnings.run(target=action - 0.8)
 
                         # Here click the up button
                         touch_screen(540, 888) #Take Winning

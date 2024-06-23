@@ -23,9 +23,11 @@ class PredictWinning():
         
         if sum(self.data[-6:]) <= 40:
             return 1
+    
+        if self.data[-1:][0] >= 14:
+            return 1
         
-        if (self.matcher.run(self.data[-4:], [1, 1, 1, 2])):
-            return 5
+        return 3
 
         return 1
 
